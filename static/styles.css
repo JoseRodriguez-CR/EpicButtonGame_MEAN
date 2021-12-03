@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+}
+#title {
+    font-size: 5rem;
+}
+#container {
+    width: 45rem;
+    height: 30rem;
+    margin: 2rem auto;
+}
+.epicBtn {
+    width: 40rem;
+    height: 20rem;
+    font-size: 3.5rem;
+    font-weight: bold;
+    border-radius: 5rem;
+    margin-top: 5rem;
+    color: white;
+    background-color: blue;
+}
+#reset {
+    float: right;
+    width: 10rem;
+    font-size: 25px;;
+    height: 5rem;
+    margin-right: 20rem;
+    color: white;
+    background-color: red;
+}
